@@ -7,4 +7,6 @@ This repository will be actively updating as I finish my courses in the
 - Google Advanced Data Analytics Professional Certificate
 - Google Business Intelligence Professional Certificate
 
-And it will be actively updating throughout the duration of the end of 2024, and probably the whole course of 2025. 
+For the Google Advanced Data Analytics Certificate, all the projects done here will be with the TikTok scenario. 
+
+This repository will be actively updated from December 2024 to sometime in 2025, when I finish both certificates.
