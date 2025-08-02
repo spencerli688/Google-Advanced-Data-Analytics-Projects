@@ -10,7 +10,7 @@ There are three project scenarios in the Google Advanced Data Analytics Professi
 - Tiktok
 - Waze
 
-Through a Python scenario generator (scenariogenerator.py) file here, I ran a short Python code that would generate a number from 1 to 3. The code has an output of 1, so in this portfolio, I will be doing the Automatidata scenario. However, after I finish Automatidata and if time permits, I will update this portfolio to include the Tiktok and Waze scenarios. My goal is to finish the whole professional certificate with at least the Automatidata scenario by July 2025. 
+Through a Python scenario generator (scenariogenerator.py) file here, I ran a short Python code that would generate a number from 1 to 3. The code has an output of 1, so in this portfolio, I will be doing the Automatidata scenario. However, after I finish Automatidata and if time permits, I will update this portfolio to include the Tiktok and Waze scenarios. My goal is to finish the whole professional certificate with at least the Automatidata scenario by August 2025. 
 
 School and other stuff has been off tracking me for a while, but I recently decide to continue where I left off. 
 
