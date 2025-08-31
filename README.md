@@ -5,6 +5,8 @@ In this repository, I will place all the end of course projects in here for publ
 
 This repository will be actively updating as I finish my courses in the Google Advanced Data Analytics Professional Certificate.
 
+All projects in this certificate will follow the useful PACE workflow that changed my life significantly. PACE stands for Plan, Analyze, Construct, and Execute. 
+
 There are three project scenarios in the Google Advanced Data Analytics Professional Certificate.
 - Automatidata
 - Tiktok
