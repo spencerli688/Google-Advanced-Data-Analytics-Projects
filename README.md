@@ -14,4 +14,6 @@ Through a Python scenario generator (scenariogenerator.py) file here, I ran a sh
 
 School and other stuff has been off tracking me for a while, but I recently decide to continue where I left off. 
 
+Update: The capstone project construction is on August 31, 2025 and will finish. 
+
 I completed the Google Data Analytics Professional Certificate one year prior to starting the Advanced certificate.
