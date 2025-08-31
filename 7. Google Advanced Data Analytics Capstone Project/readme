@@ -15,4 +15,8 @@ The Sailfort Motors HR team has requested me to do a full data analytics project
 
 This would also come with an executive summary report and PACE Strategy Document. 
 
+I will be building TWO models. A logistic regression model and a decision tree.
+
+I will not be building a random forest or XGBoost model as they are much harder to explain than logistic regression and also more time consuming. Plus I have done BOTH in Course 6.
+
 This is also the final project which sums everything I learned from the amazing advanced analytics certificate and give me an opportunity to demonstrate everything.
